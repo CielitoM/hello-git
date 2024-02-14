@@ -1,1 +1,1 @@
-print("New Hello Git!, renovado")
+print("Hello Git!, renovado")
